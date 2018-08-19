@@ -1,2 +1,2 @@
 # Camarcut 
-Simple but versatile CMS in go
+Simple but web server in go
