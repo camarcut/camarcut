@@ -1,2 +1,2 @@
 # Camarcut 
-Simple but web server in go
+Simple Web Server in go.
